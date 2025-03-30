@@ -198,7 +198,7 @@ def showPlots():
 
     
 #INTERFAZ GRAFICA
-ctk.set_appearance_mode("dark")
+ctk.set_appearance_mode("white")
 ctk.set_default_color_theme("blue")
 ventana = ctk.CTk()    
 #Titulo
